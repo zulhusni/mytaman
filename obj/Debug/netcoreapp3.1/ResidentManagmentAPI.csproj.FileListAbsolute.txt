@@ -293,7 +293,6 @@ C:\Workspace\WebApp\mytaman-api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysi
 C:\Workspace\WebApp\mytaman-api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Workspace\WebApp\mytaman-api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Workspace\WebApp\mytaman-api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Workspace\WebApp\mytaman-api\obj\Debug\netcoreapp3.1\ResidentManagmentAPI.csprojAssemblyReference.cache
 C:\Workspace\WebApp\mytaman-api\obj\Debug\netcoreapp3.1\staticwebassets\ResidentManagmentAPI.StaticWebAssets.Manifest.cache
 C:\Workspace\WebApp\mytaman-api\obj\Debug\netcoreapp3.1\staticwebassets\ResidentManagmentAPI.StaticWebAssets.xml
 C:\Workspace\WebApp\mytaman-api\obj\Debug\netcoreapp3.1\ResidentManagmentAPI.MvcApplicationPartsAssemblyInfo.cs
