@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\WebApp\\ResidentManagmentAPI\\ResidentManagmentAPI.csproj": {}
+    "C:\\Workspace\\WebApp\\mytaman-api\\ResidentManagmentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\WebApp\\ResidentManagmentAPI\\ResidentManagmentAPI.csproj": {
+    "C:\\Workspace\\WebApp\\mytaman-api\\ResidentManagmentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\WebApp\\ResidentManagmentAPI\\ResidentManagmentAPI.csproj",
+        "projectUniqueName": "C:\\Workspace\\WebApp\\mytaman-api\\ResidentManagmentAPI.csproj",
         "projectName": "ResidentManagmentAPI",
-        "projectPath": "C:\\Workspace\\WebApp\\ResidentManagmentAPI\\ResidentManagmentAPI.csproj",
+        "projectPath": "C:\\Workspace\\WebApp\\mytaman-api\\ResidentManagmentAPI.csproj",
         "packagesPath": "C:\\Users\\Norhaslinda\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\WebApp\\ResidentManagmentAPI\\obj\\",
+        "outputPath": "C:\\Workspace\\WebApp\\mytaman-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
